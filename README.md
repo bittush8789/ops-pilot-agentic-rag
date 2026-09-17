@@ -544,8 +544,6 @@ ops-workflow-agent/
 │   ├── test_tools.py       # Tool + policy engine tests
 │   ├── test_agent.py       # Agent node tests
 │   └── test_rag.py         # RAG pipeline tests
-├── .github/workflows/
-│   └── ci.yml              # Lint → Test → Docker build
 ├── .env.example
 ├── requirements.txt
 ├── Dockerfile
