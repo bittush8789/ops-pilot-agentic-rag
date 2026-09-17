@@ -550,5 +550,13 @@ ops-workflow-agent/
 ├── requirements.txt
 ├── Dockerfile
 ├── docker-compose.yml
+├── LICENSE
 └── README.md
 ```
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
